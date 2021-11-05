@@ -145,3 +145,11 @@ La plupart de ces énergies renouvelables est cependant intermittente, il est do
 ![BAN PROJET README P9](https://user-images.githubusercontent.com/90773681/140577673-9bde653e-606d-47f9-9b3c-2ab897025fed.png)
 
 
+Compétences :
+
+Maitriser les méthodes de lissage et la méthode de Holt-Winters
+Maitriser les notions de composantes et de modèles de décomposition
+Maitriser la méthode ARMA
+Représenter graphiquement une série temporelle
+
+Notions utilisées :
