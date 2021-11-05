@@ -16,18 +16,13 @@ Vous êtes intégré à une nouvelle équipe de chercheurs de la Food and Agricu
 
 Compétences :
 
-Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst
-Maîtriser les bases de Python
-Appliquer l'algèbre relationnelle en Python
-Utiliser les librairies orientées Data Science
-Effectuer des requêtes complexes en SQL
-Utiliser une documentation technique
+Appréhender l’importance de la “connaissance métier” dans l’activité de Data Analyst / Maîtriser les bases de Python / Appliquer l'algèbre relationnelle en Python
+
+Utiliser les librairies orientées Data Science / Effectuer des requêtes complexes en SQL / Utiliser une documentation technique
 
 Notions utilisées :
 
-Algèbre relationnelle
-Language Python
-Librairie Pandas, Numpy, Scipy et sklearn.
+Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
 # Projet 4 : Analysez les résultats de votre entreprise
 
@@ -41,14 +36,11 @@ Vous êtes Data Analyst d'une grande chaîne de librairie, fraîchement embauch�
 
 Compétences :
 
-Nettoyer un jeu de données
-Décrire un jeu de donnée par la statistique descriptive
-Maîtriser les concepts statistiques fondamentaux
+Nettoyer un jeu de données / Décrire un jeu de donnée par la statistique descriptive / Maîtriser les concepts statistiques fondamentaux
 
 Notions utilisées :
 
-Statistique descriptive
-Language Python.
+Statistique descriptive / Language Python.
 
 # Projet 5 : Produisez une étude de marché
 
@@ -62,14 +54,11 @@ Votre entreprise d'agroalimentaire souhaite se développer à l'international. E
 
 Compétences :
 
-Maîtriser la statistique inférentielle
-Construire et lire un dendogramme
-Interpréter une ACP
+Maîtriser la statistique inférentielle / Construire et lire un dendogramme / Interpréter une ACP
 
 Notions utilisées :
 
-Statistique descriptive
-Classification automatique.
+Statistique descriptive / Classification automatique.
 
 # Projet 6 : Détectez de faux billets
 
@@ -83,17 +72,14 @@ Votre société de consulting informatique vous propose une nouvelle mission au 
 
 Compétences :
 
-Utiliser un algorithme de clustering de type Kmeans
-Réaliser une ACP
-Interpréter une ACP
-Modéliser grâce à la régression logistique
-Réaliser une brève description des données
+Utiliser un algorithme de clustering de type Kmeans / Réaliser une ACP / Interpréter une ACP
+
+Modéliser grâce à la régression logistique / Réaliser une brève description des données
 
 Notions utilisées :
 
-statistique descriptive
-Analyse en Composantes Principales
-Classification automatique
+statistique descriptive / Analyse en Composantes Principales / Classification automatique
+
 Modélisation de type régression logistique.
 
 # Projet 7 : Effectuez une prédiction de revenus
@@ -109,9 +95,7 @@ L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un m
 
 Compétences :
 
-Maîtriser les bases de la statistique inférentielle
-Maîtriser les bases des probabilités
-Modéliser des données
+Maîtriser les bases de la statistique inférentielle / Maîtriser les bases des probabilités / Modéliser des données
 
 Notions utilisées :
 
@@ -128,8 +112,7 @@ Alors, choisissez un domaine qui vous intéresse, étudiez en profondeur ses enj
 
 Compétences :
 
-Communiquer ses résultats à l’aide de visualisations
-Rédiger un rapport d'analyse statistique
+Communiquer ses résultats à l’aide de visualisations / Rédiger un rapport d'analyse statistique
 
 Notions utilisées :
 
@@ -147,9 +130,8 @@ La plupart de ces énergies renouvelables est cependant intermittente, il est do
 
 Compétences :
 
-Maitriser les méthodes de lissage et la méthode de Holt-Winters
-Maitriser les notions de composantes et de modèles de décomposition
-Maitriser la méthode ARMA
+Maitriser les méthodes de lissage et la méthode de Holt-Winters / Maitriser les notions de composantes et de modèles de décomposition / Maitriser la méthode ARMA
+
 Représenter graphiquement une série temporelle
 
 Notions utilisées :
