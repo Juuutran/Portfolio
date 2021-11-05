@@ -95,3 +95,53 @@ statistique descriptive
 Analyse en Composantes Principales
 Classification automatique
 Modélisation de type régression logistique.
+
+# Projet 7 : Effectuez une prédiction de revenus
+
+Mise en situation :
+
+Vous êtes employé dans une banque, présente dans de nombreux pays à travers le monde. Celle-ci souhaite cibler de nouveaux clients potentiels, plus particulièrement les jeunes en âge d'ouvrir leur tout premier compte bancaire. Cependant, elle souhaite cibler les prospects les plus susceptibles d'avoir, plus tard dans leur vie, de hauts revenus.
+L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un modèle permettant de déterminer le revenu potentiel d'une personne.
+
+
+![BAN PROJET README P7](https://user-images.githubusercontent.com/90773681/140570686-797caa3f-1aec-407b-bf16-83cf791bc4d2.png)
+
+
+Compétences :
+
+Maîtriser les bases de la statistique inférentielle
+Maîtriser les bases des probabilités
+Modéliser des données
+
+Notions utilisées :
+
+# Projet 8 : Communiquez vos résultats
+
+Mise en situation :
+
+En démarrant ce parcours Data Analyst, vous aviez sûrement déjà un domaine de prédilection, voire un projet professionnel défini.
+
+Dans tous les cas, comprendre les problématiques d'un secteur et les métiers qui la composent est essentiel pour faire votre travail de data analyst. Vous ferez l'interface entre des données spécifiques et un représentant du métier.
+
+Alors, choisissez un domaine qui vous intéresse, étudiez en profondeur ses enjeux, et appréhendez un jeu de données spécifique.
+
+
+Compétences :
+
+Communiquer ses résultats à l’aide de visualisations
+Rédiger un rapport d'analyse statistique
+
+Notions utilisées :
+
+# Projet 9 : Prédisez la demande en électricité
+
+Mise en situation :
+
+Vous êtes employé chez Enercoop, société coopérative qui s'est développée grâce à la libéralisation du marché de l’électricité en France. Elle est spécialisée dans les énergies renouvelables.
+
+La plupart de ces énergies renouvelables est cependant intermittente, il est donc difficile de prévoir les capacités de production d'électricité. De plus, la demande en électricité des utilisateurs varie au cours du temps, et dépend de paramètres comme la météo (température, luminosité, etc.) Tout le challenge est de mettre en adéquation l'offre et la demande !
+
+
+![BAN PROJET README P9](https://user-images.githubusercontent.com/90773681/140577673-9bde653e-606d-47f9-9b3c-2ab897025fed.png)
+
+
