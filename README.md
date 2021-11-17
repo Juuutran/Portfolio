@@ -4,7 +4,7 @@ Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formatio
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
-# [Projet 3 : Réalisez une étude de santé publique](https://github.com/Juuutran/Portfolio/tree/main/P3)
+# [Projet 3 : Réalisez une étude de santé publique / Python & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
 Mise en situation :
 
@@ -24,7 +24,7 @@ Notions utilisées :
 
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
-# [Projet 4 : Analysez les résultats de votre entreprise](https://github.com/Juuutran/Portfolio/tree/main/P4)
+# [Projet 4 : Analysez les résultats de votre entreprise / Python](https://github.com/Juuutran/Portfolio/tree/main/P4)
 
 Mise en situation :
 
@@ -42,7 +42,7 @@ Notions utilisées :
 
 Statistique descriptive / Language Python.
 
-# [Projet 5 : Produisez une étude de marché](https://github.com/Juuutran/Portfolio/tree/main/P5)
+# [Projet 5 : Produisez une étude de marché / Python & R](https://github.com/Juuutran/Portfolio/tree/main/P5)
 
 Mise en situation :
 
@@ -60,7 +60,7 @@ Notions utilisées :
 
 Statistique descriptive / Classification automatique.
 
-# [Projet 6 : Détectez de faux billets](https://github.com/Juuutran/Portfolio/tree/main/P6)
+# [Projet 6 : Détectez de faux billets / R](https://github.com/Juuutran/Portfolio/tree/main/P6)
 
 Mise en situation :
 
@@ -82,7 +82,7 @@ statistique descriptive / Analyse en Composantes Principales / Classification au
 
 Modélisation de type régression logistique.
 
-# Projet 7 : Effectuez une prédiction de revenus
+# Projet 7 : Effectuez une prédiction de revenus / Python
 
 Mise en situation :
 
