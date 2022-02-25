@@ -99,22 +99,28 @@ Maîtriser les bases de la statistique inférentielle / Maîtriser les bases des
 
 Notions utilisées :
 
+statistique descriptive / Analyse en Composantes Principales / Classification automatique
+
+
 # Projet 8 : Communiquez vos résultats
 
 Mise en situation :
 
-En démarrant ce parcours Data Analyst, vous aviez sûrement déjà un domaine de prédilection, voire un projet professionnel défini.
+ELECTION PRESIDENTIELLE 2017
 
-Dans tous les cas, comprendre les problématiques d'un secteur et les métiers qui la composent est essentiel pour faire votre travail de data analyst. Vous ferez l'interface entre des données spécifiques et un représentant du métier.
-
-Alors, choisissez un domaine qui vous intéresse, étudiez en profondeur ses enjeux, et appréhendez un jeu de données spécifique.
-
+![BAN PROJET README P8](https://user-images.githubusercontent.com/90773681/140570686-797caa3f-1aec-407b-bf16-83cf791bc4d2.png)
 
 Compétences :
+
+Utiliser un algorithme de clustering de type Kmeans / Réaliser une ACP / Interpréter une ACP
+
+Modéliser grâce à la régression logistique / Réaliser une brève description des données
 
 Communiquer ses résultats à l’aide de visualisations / Rédiger un rapport d'analyse statistique
 
 Notions utilisées :
+
+statistique descriptive / Analyse en Composantes Principales / Classification automatique
 
 # Projet 9 : Prédisez la demande en électricité
 
