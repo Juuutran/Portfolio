@@ -102,25 +102,27 @@ Notions utilisées :
 statistique descriptive / Analyse en Composantes Principales / Classification automatique
 
 
-# Projet 8 : Communiquez vos résultats
+# Projet 8 : Communiquez vos résultats / Election présidentielle 2017
 
 Mise en situation :
 
+Dans le cadre de mon projet personnel j'ai décidé de crééer un reporting/dashboarde de l'élection présidentielle 2017 en France
+
 ELECTION PRESIDENTIELLE 2017
 
-![BAN PROJET README P8](https://user-images.githubusercontent.com/90773681/140570686-797caa3f-1aec-407b-bf16-83cf791bc4d2.png)
+![BAN P8](https://user-images.githubusercontent.com/90773681/155820617-60ce152a-4466-4918-8c41-550fc3c827d8.png)
 
 Compétences :
 
-Utiliser un algorithme de clustering de type Kmeans / Réaliser une ACP / Interpréter une ACP
+Utiliser toutes les compétences que j'ai acquis lors des projets précédents pour les appliquer au projet 8
 
-Modéliser grâce à la régression logistique / Réaliser une brève description des données
+Rechercher et récupérer un ou plusieurs jeu de données, ou encore le ou les construire soi même
 
-Communiquer ses résultats à l’aide de visualisations / Rédiger un rapport d'analyse statistique
+Communiquer ses résultats à l’aide de visualisations / Rédiger un ou plusieurs dashboard
 
 Notions utilisées :
 
-statistique descriptive / Analyse en Composantes Principales / Classification automatique
+Language Python / Language SQL / Tableau / Powerbi
 
 # Projet 9 : Prédisez la demande en électricité
 
