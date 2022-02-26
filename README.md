@@ -102,7 +102,8 @@ Notions utilisées :
 statistique descriptive / Analyse en Composantes Principales / Classification automatique
 
 
-# Projet 8 : Communiquez vos résultats / Election présidentielle 2017
+# [Projet 8 : Communiquez vos résultats / Election présidentielle 2017](https://github.com/Juuutran/Portfolio/tree/main/P8)
+
 
 Mise en situation :
 
