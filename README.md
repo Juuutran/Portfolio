@@ -106,9 +106,8 @@ statistique descriptive / Analyse en Composantes Principales / Classification au
 
 Mise en situation :
 
-Dans le cadre de mon projet personnel j'ai décidé de crééer un reporting/dashboarde de l'élection présidentielle 2017 en France
+Dans le cadre de mon projet personnel j'ai décidé de créer un reporting/dashboard de l'élection présidentielle 2017 en France, pour y exposer toutes les données et résultats pertinents de cette élection présidentielle, de la manière la plus synthétiqe et efficace possible.
 
-ELECTION PRESIDENTIELLE 2017
 
 ![BAN P8](https://user-images.githubusercontent.com/90773681/155820617-60ce152a-4466-4918-8c41-550fc3c827d8.png)
 
