@@ -99,7 +99,7 @@ L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un m
 * statistique descriptive / Analyse en Composantes Principales / Classification automatique
 
 
-# [Projet 8 : Communiquez vos résultats / Election présidentielle 2017](https://github.com/Juuutran/Portfolio/tree/main/P8)
+# [Projet 8 : Communiquez vos résultats / Election présidentielle 2017 / Python & SQL](https://github.com/Juuutran/Portfolio/tree/main/P8)
 
 
 ## Mise en situation :
